@@ -6,10 +6,6 @@
 
 👯 I’m looking to collaborate on: Digital design and verification projects.
 
-🤔 I’m looking for help with: Job referrals in VLSI companies.
-
-💬 Ask me about: VLSI verification, Verilog, SystemVerilog, and UVM.
-
 📫 How to reach me: skabilesh231@gmail.com ph-9360195991.
 
 🎓 Background: I’m a graduate in  Electronics and communication Engineering, driven by a strong curiosity about electronics, which led me to pursue VLSI design and verification.
