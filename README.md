@@ -1,16 +1,15 @@
-## Hi there 👋
+🌟 About Me
 
-<!--
-**Kabileshwaran23-1-2004/Kabileshwaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: Enhancing my verification skills through hands-on projects in VLSI.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Digital electronics and verilog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on: Digital design and verification projects.
+
+🤔 I’m looking for help with: Job referrals in VLSI companies.
+
+💬 Ask me about: VLSI verification, Verilog, SystemVerilog, and UVM.
+
+📫 How to reach me: skabilesh231@gmail.com ph-9360195991.
+
+🎓 Background: I’m a graduate in  Electronics and communication Engineering, driven by a strong curiosity about electronics, which led me to pursue VLSI design and verification.
